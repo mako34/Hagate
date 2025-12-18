@@ -13,7 +13,7 @@ npm run compile
 
 
 2 open vscode using the extension
-code --extensionDevelopmentPath="/Users/manuel.betancurt/Library/CloudStorage/OneDrive-GuzmanYGomez/Documents/MK/testeo/vsX/budgie" "/Users/manuel.betancurt/Documents/GyG/bhyve-feature-user"
+code --extensionDevelopmentPath="/Users/manuel.betancurt/Library/CloudStorage/MaDrive/Documents/MK/testeo/vsX/budgie" "/Users/manuel.betancurt/Documents/GyG/bhyve-feature-user"
 
 
 Action	Shortcut mac
