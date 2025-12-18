@@ -14,8 +14,24 @@
   "contributes": {
     "commands": [
       {
-        "command": "budgie.helloWorld",
-        "title": "Hello World"
+        "command": "budgie.startRandomFiles",
+        "title": "Budgie: Start"
+      },
+      {
+        "command": "budgie.stopRandomFiles",
+        "title": "Budgie: Stop"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "budgie.startRandomFiles",
+        "key": "ctrl+alt+b",
+        "mac": "cmd+alt+b"
+      },
+      {
+        "command": "budgie.stopRandomFiles",
+        "key": "ctrl+alt+s",
+        "mac": "cmd+alt+s"
       }
     ]
   },
